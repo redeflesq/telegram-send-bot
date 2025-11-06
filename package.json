@@ -1,0 +1,20 @@
+{
+  "name": "TelegramSendBot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "prestart": "npm update common"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  },
+  "dependencies": {
+    "js-ini": "^1.6.0",
+    "node-console-colors": "^1.1.5",
+    "telegram": "^2.24.11"
+  }
+}
