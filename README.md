@@ -1,4 +1,4 @@
-# TelegramSendBot — Console Mass-Messenger
+# telegram-send-bot — Console Mass-Messenger
 
 A terminal-based script for sending messages to multiple Telegram dialogs via your account session.
 
