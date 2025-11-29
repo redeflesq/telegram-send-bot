@@ -2,8 +2,6 @@
 
 A terminal-based script for sending messages to multiple Telegram dialogs via your account session.
 
----
-
 ## Features
 
 - Bulk messaging to users, bots, chats, and channels  
@@ -12,8 +10,6 @@ A terminal-based script for sending messages to multiple Telegram dialogs via yo
 - Auto-delete messages after sending  
 - Session management with `session.txt`
 
----
-
 ## Installation
 
 ```bash
@@ -21,8 +17,6 @@ git clone https://github/redeflesq/telegram-send-bot
 cd telegram-send-bot
 npm install
 ```
-
----
 
 ## Configuration
 
@@ -36,8 +30,6 @@ session=session.txt
 ```
 
 Get your credentials at [my.telegram.org/auth](https://my.telegram.org/auth).
-
----
 
 ## Usage
 
